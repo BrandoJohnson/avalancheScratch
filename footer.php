@@ -5,22 +5,19 @@
                         <td valign="top" background="<?php print IMAGES; ?>/border_left.gif"><img src="<?php print IMAGES; ?>/spacer.gif" width="20" height="40" border="0" alt="" /><br /></td>
                             <td bgcolor="#eeeeee">
                                 <nav class="foot" align="center">
-                                    <?php
-                                    wp_nav_menu(array(
-                                        'theme_location' => 'footer-menu',
-                                        'container' => '',
-                                        'menu_class' => 'inline'
-                                    ));
-                                    ?>
-
+                                            <?php
+                                            wp_nav_menu(array(
+                                                'theme_location' => 'footer-menu',
+                                                'container' => '',
+                                                'menu_class' => 'inline'
+                                            ));
+                                            ?>
                                     <br />
                                     &copy; <?php echo date('Y'); ?> Avalanche! Products by Rhino Manufacturing - 800-378-3088 -  <a href="<?php echo home_url(); ?>/policies">Store Policies</a> -  <a href="mailto:sales@avalanche-snow.com">E-mail</a>  <!--<a href="/downloads/Avalanche-order-form.pdf" target="_blank">Fax Order Form</a>-->
-
                                 </nav>
-                            </td>
+                              </td>
                         <td valign="top" background="<?php print IMAGES; ?>/border_right.gif"><img src="<?php print IMAGES; ?>/spacer.gif" width="20" height="40" border="0" alt="" /><br /><br /></td>
                     </tr>
-
                     <tr>
                         <td valign="top" colspan="3">
                             <img src="<?php print IMAGES; ?>/border_bottom.gif" width="754" height="20" border="0" alt="" /><br />
