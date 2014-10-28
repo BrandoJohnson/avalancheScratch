@@ -83,7 +83,6 @@
                 'theme_location' => 'main-menu',
                 'container' => '',
                 'menu_class' => 'inline'
-
             ));
             ?>
             <div style="clear:both"></div>
