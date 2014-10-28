@@ -43,7 +43,7 @@ td {
     width:740px;
     padding: 0px;
     margin: 0px auto 0px auto;
-    background:#e9e9e6 url("images/navback.jpg");
+    background:#e9e9e6 url("/images/navback.jpg");
 }
 #mainNav ul {
     margin: 0px;
