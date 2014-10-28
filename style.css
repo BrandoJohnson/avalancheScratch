@@ -144,7 +144,7 @@ td {
 .topnav {
     width:740px;
     height: 28px;
-    background:#e9e9e6 url("navback.jpg");
+    background:#e9e9e6 url("images/navback.jpg");
 }
 .topnav a {
     font:bold 12px Arial;
