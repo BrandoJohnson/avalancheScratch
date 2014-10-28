@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" uploadOnCheckin="d3f30b4a-69bb-4cbc-81ea-5861be58a4f4">
+    <serverData>
+      <paths name="Avalanche">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/avalanche-snow/wp-content/themes/avalanche" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Avalanche DEV">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/avalanche-snow/wp-content/themes/avalanche" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="Avalanche DEV" />
+  </component>
+</project>
+
