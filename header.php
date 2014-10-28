@@ -37,7 +37,7 @@
     <?php wp_head(); ?>
 </head>
 
-<body  <?php body_class(); ?>bgcolor="#BCC0C7" background="<?php print <?php print IMAGES; ?>; ?>/bg.gif">
+<body  <?php body_class(); ?>bgcolor="#BCC0C7" background="<?php print IMAGES; ?>/bg.gif">
 <div align="center">
     <table cellspacing="0" cellpadding="0" border="0" width="783" valign="top">
         <tr>
@@ -45,7 +45,7 @@
         </tr>
         <tr>
             <td valign="top" bgcolor="#F8F9FD"><div style="float:left"><img src="<?php print IMAGES; ?>/head02.jpg" width="56" height="76" border="0" alt="" /></div>
-                <div style="float:left"><a href="<?php echo home_url(); ?>"><img src="<?php print <?php print IMAGES; ?>; ?>/head03_logo.gif" width="285" height="76" border="0" alt="<?php bloginfo('name'); ?>" /></a></div>
+                <div style="float:left"><a href="<?php echo home_url(); ?>"><img src="<?php print IMAGES; ?>/head03_logo.gif" width="285" height="76" border="0" alt="<?php bloginfo('name'); ?>" /></a></div>
                 <div style="float:left; width:373px; height:76px;background-image:url(<?php print IMAGES; ?>/head04_Homeback.jpg);">
                     <div style="margin:0px 0px 0px 30px">
                         <div class="homehead">
