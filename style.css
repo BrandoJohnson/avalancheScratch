@@ -39,18 +39,18 @@ td {
 
 /* *************************************** mainNav */
 
-#mainNav {
+#main-nav {
     width:740px;
     padding: 0px;
     margin: 0px auto 0px auto;
     background:#e9e9e6 url("images/navback.jpg");
 }
-#mainNav ul {
+#main-nav ul {
     margin: 0px;
     padding: 0px 0px 0px 10px;
     list-style-type: none;
 }
-#mainNav li {
+#main-nav li {
     float: left;
     margin: 0px;
     padding: 8px 4px 8px 28px;
@@ -66,14 +66,14 @@ td {
     height: 12px;
     background-color: #FF8A00;
 }
-#mainNav a {
+#main-nav a {
     color: #2b45b0;
     text-decoration:none;
 }
-#mainNav a:hover {
+#main-nav a:hover {
     color: #f08200;
 }
-#mainNav li:hover {
+#main-nav li:hover {
     background-image: url("images/nav_light_on.gif");
 }
 
@@ -202,6 +202,20 @@ td {
     color: #666666;
     font-family: arial;
 }
+
+.foot ul {
+    list-style-type: none;
+}
+
+.foot li {
+    float: left;
+    padding: 0px 0px 0px 8px;
+    margin-left: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    text-transform: uppercase;
+}
+
 a {
     color: #2a72cc;
     text-decoration: none;
@@ -278,7 +292,9 @@ li.check, ul.check {
     margin:8px 10px 0px 10px;
 }
 
-
+/**********************************************************************/
+/* Brandon Styles 2015 */
+/**********************************************************************/
 
 
 

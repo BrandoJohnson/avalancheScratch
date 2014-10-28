@@ -77,15 +77,14 @@
     </table>-->
     <div id="mNavContainer">
         <div><img src="<?php print IMAGES; ?>/nav_top2.gif" width="783" height="12" border="0" alt="" /></div>
-        <nav class="main-nav">
-            <?php
-            wp_nav_menu(array(
-                'theme_location' => 'main-menu',
-                'container' => '',
-                'menu_class' => 'inline'
-            ));
-            ?>
-            <div style="clear:both"></div>
+        <nav id="main-nav">
+                    <?php
+                    wp_nav_menu(array(
+                        'theme_location' => 'main-menu',
+                        'container' => '',
+                        'menu_class' => 'inline'
+                    ));
+                    ?>
         </nav>
         <div class="orgBar"></div>
     </div>
