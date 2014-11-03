@@ -4,7 +4,10 @@
 
 <?php get_header(); ?>
 
-
-       <?php the_content(); ?>
+<?php
+    $page_id = 16; // substitute page_id of page you want content included from for "2"
+    $page = get_post($page_id);
+    echo "<p>$page->post_content</p>";
+?>
 
 <?php get_footer(); ?>
