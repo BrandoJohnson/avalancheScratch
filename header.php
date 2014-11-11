@@ -9,7 +9,7 @@
     <meta name="KEYWORDS" content="snow roof rake, avalanche snow rake, snow removal, roof maintenance, avalanche roof rake, roof rake, roof snow removal, ice dam solutions, big rig rake, bigrigrake, bigrigrake.com, buffalo minnesota, wright county," />
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="<?php bloginfo('stylesheet_url') ?>" />
+    <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" />
     <link href="style_editor.css" rel="stylesheet" type="text/css" media="all" />
     <link href="style_editor_hide.css" rel="stylesheet" type="text/css" media="all" />
 

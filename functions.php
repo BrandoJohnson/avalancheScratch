@@ -38,4 +38,21 @@ if (function_exists('add_theme_support')) {
 }
 
 
+
+
+/**********************************************************************/
+/* Slider Functions */
+/**********************************************************************/
+
+function blm_init_method() {
+wp_enqueue_script('jquery');
+wp_enqueue_script( 'slides', get_template_directory_uri().'/js/jquery.slides.min.js', array( 'jquery' ) );
+}
+
+add_action('wp_enqueue_scripts', 'blm_init_method');
+
+
+
+
+
 ?>
