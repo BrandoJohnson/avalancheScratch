@@ -93,9 +93,6 @@
             <td valign="top" background="<?php print IMAGES; ?>/border_left.gif"><img src="<?php print IMAGES; ?>/border_left.gif" width="20" height="100" border="0" alt="" /><br /></td>
             <td valign="top"><img src="<?php print IMAGES; ?>/spacer.gif" width="714" height="12" border="0" alt="" /><br />
 
-        /**********************************************************************/
-        /* Slider code for header */
-        /**********************************************************************/
 
                 <script>
                     jQuery(document).ready(function($){
