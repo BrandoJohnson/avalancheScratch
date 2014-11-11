@@ -1,3 +1,8 @@
+<?php
+/* Template Name: Gallery */
+?>
+
+
 <?php get_header(); ?>
     <div id="slides">
         <div class="slides_container">
