@@ -38,19 +38,6 @@ if (function_exists('add_theme_support')) {
 }
 
 
-function np_init() {
-    $args = array(
-        'public' => true,
-        'label' => 'Nivo Images',
-        'supports' => array(
-            'title',
-            'thumbnail'
-        )
-    );
-    register_post_type('np_images', $args);
-}
-add_action('init', 'np_init');
-
 
 
 
