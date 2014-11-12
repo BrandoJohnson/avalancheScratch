@@ -41,7 +41,7 @@
         </div>
     </div>
 </div>
-
+<br/>
 <div class="col-md-12"><?php the_field('bottom_content_area') ?></div>
 
 <?php get_footer(); ?>
