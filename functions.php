@@ -38,19 +38,18 @@ if (function_exists('add_theme_support')) {
 }
 
 
-
-
-/**********************************************************************/
-/* Slider Functions */
-/**********************************************************************/
-
-function blm_init_method() {
-wp_enqueue_script('jquery');
-wp_enqueue_script( 'slides', get_template_directory_uri().'/js/jquery.slides.min.js', array( 'jquery' ) );
+function np_init() {
+    $args = array(
+        'public' => true,
+        'label' => 'Nivo Images',
+        'supports' => array(
+            'title',
+            'thumbnail'
+        )
+    );
+    register_post_type('np_images', $args);
 }
-
-add_action('wp_enqueue_scripts', 'blm_init_method');
-
+add_action('init', 'np_init');
 
 
 
