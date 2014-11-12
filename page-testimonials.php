@@ -4,8 +4,15 @@
 
 <?php get_header(); ?>
 
+<?php
 
+function my_home_category( $query ) {
+    if ( $query->is_home() && $query->is_main_query() ) {
+        $query->set( 'cat', '8');
+    }
+}
+add_action( 'pre_get_posts', 'my_home_category' );
 
-<?php query_posts('cat=testimonials;showposts='.get_option('posts_per_page')); ?>
+?>
 
 <?php get_footer(); ?>
