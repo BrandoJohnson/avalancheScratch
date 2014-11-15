@@ -10,7 +10,7 @@
                                    &copy; <?php echo date('Y'); ?> Avalanche! Products by Rhino Manufacturing - 800-378-3088 -  <a href="<?php echo home_url(); ?>/policies">Store Policies</a> -  <a href="mailto:sales@avalanche-snow.com">E-mail</a>  <!--<a href="/downloads/Avalanche-order-form.pdf" target="_blank">Fax Order Form</a>-->
                                 </nav>
                               </td>
-                        <td valign="top" ><img src="<?php print IMAGES; ?>/spacer.gif" width="0" height="40" border="0" alt="" /><br /><br /></td>
+                        <td valign="top" style="background: red;"><img src="<?php print IMAGES; ?>/spacer.gif" width="0" height="40" border="0" alt="" /><br /><br /></td>
                     </tr>
                     <tr>
                         <td valign="top" colspan="3">
