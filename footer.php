@@ -1,5 +1,4 @@
-                        <td valign="top" >
-                        </td>
+                    
                         <tr>
                             <td bgcolor="#eeeeee">
                                 <nav class="foot botnav" align="center">
