@@ -88,7 +88,7 @@
         </nav>
         <div class="orgBar"></div>
     </div>
-    <table cellspacing="0" cellpadding="0" border="1" width="734" bgcolor="#ffffff" valign="top">
+    <table cellspacing="0" cellpadding="0" border="1" width="754" bgcolor="#ffffff" valign="top">
         <tr>
             <td valign="top" background="<?php print IMAGES; ?>/border_left.gif" style="width: 5px"></td>
             <td valign="top"><img src="<?php print IMAGES; ?>/spacer.gif" width="714" height="12" border="0" alt="" /><br />
