@@ -1,5 +1,5 @@
                         <td valign="top" >
-                            <img src="<?php print IMAGES; ?>/border_right.gif" width="20" height="100" border="0" alt="" /><br />
+
                         </td>
                     <tr>
                         <td valign="top" background="<?php print IMAGES; ?>/border_left.gif"><img src="<?php print IMAGES; ?>/spacer.gif" width="20" height="40" border="0" alt="" /><br /></td>
