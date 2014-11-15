@@ -1,7 +1,6 @@
                         <td valign="top" >
                         </td>
                         <tr>
-                            <td valign="top" background="<?php print IMAGES; ?>/border_left.gif"><img src="<?php print IMAGES; ?>/spacer.gif" width="10" height="40" border="0" alt="" /><br /></td>
                             <td bgcolor="#eeeeee">
                                 <nav class="foot botnav" align="center">
                                     <a href="index-2.html">HOME</a> | <a href="eshop/10browse.html">PRODUCTS</a> | <a href="dams.html">ICE DAMS</a> | <a href="testimonials.html">TESTIMONIALS</a> | <a href="contact.html">CONTACT US</a> | <a href="sitemap.html">SITE MAP</a> | <a href="dealer.html">FIND A DEALER</a> | <a href="gallery.html">GALLERY</a> | <a href="galleryfilelibrary.html">LIBRARY</a>
