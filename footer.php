@@ -1,4 +1,4 @@
-                        <td valign="top" background="<?php print IMAGES; ?>/border_right.gif">
+                        <td valign="top" >
                             <img src="<?php print IMAGES; ?>/border_right.gif" width="20" height="100" border="0" alt="" /><br />
                         </td>
                     <tr>
