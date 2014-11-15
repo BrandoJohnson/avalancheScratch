@@ -1,4 +1,4 @@
-                        <td valign="top" style="width: 2px; background: red;" >
+                        <td valign="top" >
                         </td>
                     <tr>
                         <td valign="top" background="<?php print IMAGES; ?>/border_left.gif"><img src="<?php print IMAGES; ?>/spacer.gif" width="10" height="40" border="0" alt="" /><br /></td>
