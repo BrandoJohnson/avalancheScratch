@@ -39,7 +39,7 @@
 
 <body  <?php body_class(); ?>bgcolor="#BCC0C7" background="<?php print IMAGES; ?>/bg.gif">
 <div align="center">
-    <table cellspacing="0" cellpadding="0" border="1" width="783" valign="top">
+    <table cellspacing="0" cellpadding="0" border="0" width="783" valign="top">
         <tr>
             <td valign="top"><img src="<?php print IMAGES; ?>/head01.jpg" width="783" height="46" border="0" alt="" /><br /></td>
         </tr>
@@ -88,7 +88,7 @@
         </nav>
         <div class="orgBar"></div>
     </div>
-    <table cellspacing="0" cellpadding="0" border="0" width="754" bgcolor="#ffffff" valign="top">
+    <table cellspacing="0" cellpadding="0" border="1" width="754" bgcolor="#ffffff" valign="top">
         <tr>
             <td valign="top" background="<?php print IMAGES; ?>/border_left.gif" style="width: 5px"></td>
             <td valign="top"><img src="<?php print IMAGES; ?>/spacer.gif" width="714" height="12" border="0" alt="" /><br />
