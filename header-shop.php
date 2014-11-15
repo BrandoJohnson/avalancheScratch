@@ -90,4 +90,4 @@
     </div>
     <table cellspacing="0" cellpadding="0" border="1" width="742" bgcolor="#ffffff" valign="top">
         <tr>
-            <td valign="top"><img src="<?php print IMAGES; ?>/spacer.gif" width="714" height="12" border="0" alt="" /><br style="clear: both;" />
+            <td valign="top"><br style="clear: both;" />
