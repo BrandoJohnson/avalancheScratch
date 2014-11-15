@@ -11,7 +11,7 @@
                             <td valign="top" ><img src="<?php print IMAGES; ?>/spacer.gif" width="0" height="40" border="0" alt="" /><br /><br /></td>
                         </tr>
                         <tr>
-                            <td valign="top" colspan="3">
+                            <td valign="top" colspan="2">
                                 <img src="<?php print IMAGES; ?>/border_bottom.gif" width="754" height="20" border="0" alt="" /><br />
                             </td>
                         </tr>
