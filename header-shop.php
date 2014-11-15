@@ -9,7 +9,7 @@
     <meta name="KEYWORDS" content="snow roof rake, avalanche snow rake, snow removal, roof maintenance, avalanche roof rake, roof rake, roof snow removal, ice dam solutions, big rig rake, bigrigrake, bigrigrake.com, buffalo minnesota, wright county," />
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="<?php bloginfo('stylesheet_url') ?>" />
+    <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" />
     <link href="style_editor.css" rel="stylesheet" type="text/css" media="all" />
     <link href="style_editor_hide.css" rel="stylesheet" type="text/css" media="all" />
 
@@ -78,17 +78,28 @@
     <div id="mNavContainer">
         <div><img src="<?php print IMAGES; ?>/nav_top2.gif" width="783" height="12" border="0" alt="" /></div>
         <nav id="main-nav">
-                    <?php
-                    wp_nav_menu(array(
-                        'theme_location' => 'main-menu',
-                        'container' => '',
-                        'menu_class' => 'inline'
-                    ));
-                    ?>
+            <?php
+            wp_nav_menu(array(
+                'theme_location' => 'main-menu',
+                'container' => '',
+                'menu_class' => 'inline'
+            ));
+            ?>
         </nav>
         <div class="orgBar"></div>
     </div>
-    <table cellspacing="0" cellpadding="0" border="0" width="754" bgcolor="#ffffff" valign="top">
+    <table cellspacing="0" cellpadding="0" border="0" width="742" bgcolor="#ffffff" valign="top">
         <tr>
-            <td valign="top" background="<?php print IMAGES; ?>/border_left.gif"><img src="<?php print IMAGES; ?>/border_left.gif" width="0" height="0" border="0" alt="" /><br /></td>
-            <td valign="top"><img src="<?php print IMAGES; ?>/spacer.gif" width="0" height="0" border="0" alt="" /><br />
+            <td valign="top"><img src="<?php print IMAGES; ?>/spacer.gif" width="714" height="12" border="0" alt="" /><br />
+                <script>
+                    jQuery(document).ready(function($){
+                        $('#slides').slides({
+                            preload: true,
+                            preloadImage: '<?php echo get_template_directory_uri(); ?>/images/loading.gif',
+                            play: 5000,
+                            pause: 2500,
+                            hoverPause: true
+
+                        });
+                    });
+                </script>
