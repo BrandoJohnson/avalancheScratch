@@ -90,7 +90,6 @@
     </div>
     <table cellspacing="0" cellpadding="0" border="1" width="744" bgcolor="#ffffff" valign="top">
         <tr>
-            <td valign="top" background="<?php print IMAGES; ?>/border_left.gif" style="width: 5px"></td>
             <td valign="top"><img src="<?php print IMAGES; ?>/spacer.gif" width="714" height="12" border="0" alt="" /><br />
                 <script>
                     jQuery(document).ready(function($){
