@@ -30,7 +30,7 @@
     </div>
 </div>
 <div style="width:351px;float:right;">
-    <div style="height:70px; background:#5998c9;"><a href="downloads/Avalanche_dealer.pdf" target="_blank"><img src="<?php print IMAGES; ?>/contact_dealerbutton.gif" width="167" height="70" border="0" alt="Dealer Information"></a></div>
+    <div style="height:70px; background:#5998c9;"><img src="<?php print IMAGES; ?>/contact_dealerbutton.gif" width="167" height="70" border="0" alt="Dealer Information"></div>
     <div style="width:351px; background-color:#F1F1F1;margin:10px 0px 0px 0px;">
         <div class="body" style="margin:0px 10px 0px 30px; height:350px;"><br>
             <p><span style="COLOR: #000000" class="bigger"><strong>European&nbsp;Distributor -&nbsp;</strong></span>Avalanche! in Europe - by Yello Industries AS</p>
