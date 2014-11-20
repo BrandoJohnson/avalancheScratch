@@ -38,7 +38,7 @@
             <p><span class="tiny"><strong>Email:</strong>&nbsp;<span style="text-decoration: underline;"></span></span><span class="tiny"><a href="mailto:sales@avalanche-snow.eu">post@avalanche-snow.eu</a>&nbsp;</span><span class="tiny">
                     <strong>Website:</strong> </span><span class="tiny"><a href="http://www.avalanche-snow.eu/">www.avalanche-snow.eu/</a></span></p>
             <p><span style="font-weight: bold;">Canadian Distributor - Rushbay Disctributors </span>Winnipeg, Manitoba</p>
-            <p>Phone: 204-470-7905, Email: <a href="mailto:sales@snowrake.ca"sales@snowrake.ca></a> Website: <a
+            <p>Phone: 204-470-7905, Email: <a href="mailto:sales@snowrake.ca"sales@snowrake.ca></a> Website:<a
                     href="www.snowrake.ca">www.snowrake.ca</a></p>
         </div>
     </div>
