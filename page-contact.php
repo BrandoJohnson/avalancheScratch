@@ -16,7 +16,7 @@
             <div><span style="COLOR: #2a61f3">800-378-3088</span></div>
             <div><strong>Website</strong><strong>:</strong></div>
             <div><a href="#">www.avalanche-snow.com</a></div>
-            <div><a href="http://www.avalanche-snow.ca/">www.avalanche-snow.</a>eu</div>
+            <div><a href="http://www.avalanche-snow.ca/">www.avalanche-snow.ca</a></div>
             <div><strong>Email: <br />
                 </strong><a href="mailto:sales@avalanche-snow.com">sales@avalanche-snow.com</a> <br />
                <br />
@@ -35,9 +35,11 @@
         <div class="body" style="margin:0px 10px 0px 30px; height:350px;"><br>
             <p><span style="COLOR: #000000" class="bigger"><strong>European&nbsp;Distributor -&nbsp;</strong></span>Avalanche! in Europe - by Yello Industries AS</p>
             <div><span class="tiny">Storgata 18B | Gjovik, Norway -&nbsp;</span><strong style="font-size: 10px;">Phone:</strong><span style="font-size: 10px;"> +47 815 22 333</span></div>
-            <p><span class="tiny"><strong>Email:</strong>&nbsp;<span style="text-decoration: underline;">post@</span></span><span class="tiny"><a href="mailto:sales@avalanche-snow.eu">avalanche-snow.eu</a>&nbsp;</span><span class="tiny"><strong>Website:</strong> </span><span class="tiny"><a href="http://www.avalanche-snow.eu/">www.avalanche-snow.eu/</a></span></p>
-            <p><span style="font-weight: bold;">Canadian Distributor - Rushbay Disctributors - </span>Winnipeg, Manitoba</p>
-            <p>Phone: 204-470-7905, Email: sales@snowrake.ca Website: www.snowrake.ca</p>
+            <p><span class="tiny"><strong>Email:</strong>&nbsp;<span style="text-decoration: underline;"></span></span><span class="tiny"><a href="mailto:sales@avalanche-snow.eu">post@avalanche-snow.eu</a>&nbsp;</span><span class="tiny">
+                    <strong>Website:</strong> </span><span class="tiny"><a href="http://www.avalanche-snow.eu/">www.avalanche-snow.eu/</a></span></p>
+            <p><span style="font-weight: bold;">Canadian Distributor - Rushbay Disctributors </span>Winnipeg, Manitoba</p>
+            <p>Phone: 204-470-7905, Email: <a href="mailto:sales@snowrake.ca"sales@snowrake.ca></a> Website: <a
+                    href="www.snowrake.ca">www.snowrake.ca</a></p>
         </div>
     </div>
 </div>
