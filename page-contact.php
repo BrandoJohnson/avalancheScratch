@@ -5,7 +5,7 @@
 
 <?php get_header(); ?>
 
-<div style="width:351px;float:left;"> <img src="<?php print IMAGES; ?>/contact_head.gif" width="350" height="70" border="0" alt=""><br>
+<div style="width:351px;float:left;"><a href="<?php echo home_url(); ?>/dealer-application/"><img src="<?php print IMAGES; ?>/contact_head.gif" width="350" height="70" border="0" alt="Avalanche! Snow Removal"></a><br>
     <div style="width:350px;background-color:#F1F1F1;margin:10px 0px 0px 0px;">
         <div class="body" style="padding:7px 10px 0px 30px; height: 350px;">
             <div style="width:143px;float:right;margin:40px 0px 0px 0px;"> <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d179799.044110832!2d-93.99306325332033!3d45.24051125337265!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b49621f8305403%3A0x3cd04582a2b81610!2s400+Congress+St+W%2C+Maple+Lake%2C+MN+55358!5e0!3m2!1sen!2sus!4v1405707276258" width="143" height="126" frameborder="0" style="border:0"></iframe><br>
