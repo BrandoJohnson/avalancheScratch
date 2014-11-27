@@ -39,7 +39,7 @@
             Email: <a href="mailto:sales@avalanche-snow.eu">post@avalanche-snow.eu</a><br />
             Website:<a href="http://www.avalanche-snow.eu/">www.avalanche-snow.eu/</a>
             <br /><br />
-            <strong>Canadian Distributor:</strong> <br />
+            <strong>Canada:</strong> <br />
             Rushbay Disctributors<br />
             Winnipeg, Manitoba<br />
             Phone: 204-470-7905<br />
