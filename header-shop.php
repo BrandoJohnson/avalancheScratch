@@ -9,30 +9,8 @@
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" />
-    <link href="style_editor.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="style_editor_hide.css" rel="stylesheet" type="text/css" media="all" />
 
-    <script type="text/javascript" src="js/swfobject.js"></script>
-    <script type="text/javascript">
-        var flashvars = {};
-        flashvars.videoSource = "avalanche_hp.flv";
-        var params = {};
-        params.wmode = "opaque";
-        params.bgcolor = "#FFFFFF";
-        params.allowscriptaccess = "sameDomain";
-        var attributes = {};
-        attributes.id = "homepage_video";
-        swfobject.embedSWF("video/videoPlayer.swf", "hp_video", "320", "240", "8.0.0", false, flashvars, params, attributes);
-        //
-        //
-        function writeDate() {
-            var d = new Date;
-            var month = d.getMonth()+1;
-            var day = d.getDate();
-            var year = d.getFullYear();
-            document.getElementById("dateDisplay").innerHTML = (month + "/" + day + "/" + year);
-        }
-    </script>
+
     <?php wp_head(); ?>
 
 </head>
