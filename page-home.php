@@ -9,7 +9,7 @@
     <div class="row123">
         <div class="col-md-12"><?php the_content(); ?></div>
         <br clear="all" >
-
+        <div class="col-md-12"><?php the_field('middle_content_area') ?></div>
         <div class="col-md-12"><?php the_field('bottom_content_area') ?></div>
     </div>
 
