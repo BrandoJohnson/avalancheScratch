@@ -66,7 +66,7 @@
         </nav>
         <div class="orgBar"></div>
     </div>
-    <table cellspacing="0" cellpadding="0" border="1" width="740" bgcolor="#ffffff" valign="top" style="width: 700px; !important">
+    <table cellspacing="0" cellpadding="0" border="1" width="740" bgcolor="#ffffff" valign="top" style="width: 700px !important;">
         <tr>
-            <td valign="top" ><br style="clear: both;" />
+            <td valign="top" style="width: 700px !important;" ><br style="clear: both;" />
 
