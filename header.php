@@ -56,4 +56,4 @@
     </div>
     <table cellspacing="0" cellpadding="0" border="1" width="740" bgcolor="#ffffff" valign="top">
         <tr>
-            <td valign="top">
+            <td valign="top"><br style="clear: both;"/>
