@@ -6,6 +6,7 @@ if($productdetail=="yes"){
 }
 ?>
 </div>
+</div>
             <table cellspacing="0" cellpadding="0" border="0" width="740" bgcolor="#ffffff" valign="top">
 
                 <tr>
