@@ -17,7 +17,7 @@
 
 <body  <?php body_class(); ?>bgcolor="#BCC0C7" background="<?php print IMAGES; ?>/bg.gif">
 
-<div style="border: 1px solid red; margin-left: 200px; width: 783px;" >
+<div style="border: 1px solid red; margin-left: 200px; width: 782px;" >
     <table cellspacing="0" cellpadding="0" border="0" width="783" valign="top">
         <tr>
             <td valign="top"><img src="<?php print IMAGES; ?>/head01.jpg" width="783" height="46" border="0" alt="" /><br /></td>
@@ -56,6 +56,6 @@
         </nav>
         <div class="orgBar"></div>
     </div>
-    <div class="frontpage-content">
+    <div class="frontpage-content" style="margin-left: 12px;">
 
 
