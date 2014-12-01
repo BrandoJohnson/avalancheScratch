@@ -19,7 +19,7 @@
     </style>
 
     <?php
-        $productdetail="yes";
+        $rickjohnson="brandon";
     ?>
 
 </head>
