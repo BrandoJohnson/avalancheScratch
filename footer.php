@@ -1,5 +1,7 @@
 <br style="clear: both;">
 </div>
+</div>
+</div>
             <table cellspacing="0" cellpadding="0" border="0" width="740" bgcolor="#ffffff" valign="top">
 
                 <tr>
@@ -17,8 +19,7 @@
                     </map>
             </div>
 
-</div>
-</div>
+
 
         <?php wp_footer(); ?>
     </body>
