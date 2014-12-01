@@ -1,7 +1,7 @@
 <br style="clear: both;">
 
 <?php
-    echo $rickjohnson;
+    echo "$rickjohnson";
 ?>
 </div>
 </div>
