@@ -18,7 +18,6 @@
 <body  <?php body_class(); ?>bgcolor="#BCC0C7" background="<?php print IMAGES; ?>/bg.gif">
 
 <div style="text-align: center; border: 1px solid red; width: 100% !important;">
-    xxxxxxxxxxx
     <table cellspacing="0" cellpadding="0" border="1" width="783" valign="top">
         <tr>
             <td valign="top"><img src="<?php print IMAGES; ?>/head01.jpg" width="783" height="46" border="0" alt="" /><br /></td>
