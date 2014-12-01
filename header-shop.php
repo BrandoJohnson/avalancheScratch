@@ -14,7 +14,7 @@
     <?php wp_head(); ?>
     <style>
         body.woocommerce {
-            width: auto !important;
+            width: 100% !important;
         }
     </style>
 </head>
