@@ -1,6 +1,18 @@
 <br style="clear: both;">
-<?php echo get_page_template(); ?>
 
+<?php
+
+$url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+
+
+if (false !== strpos($url,'/product/')) {
+    echo 'Yes PAGE.';
+} else {
+    echo 'No NOT.';
+}
+
+
+?>
 
 </div>
 </div>
