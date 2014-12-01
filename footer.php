@@ -4,6 +4,7 @@
 if($productdetail=="yes"){
     echo "</div> Hello";
 }
+echo $productdetail;
 ?>
 </div>
 </div>
