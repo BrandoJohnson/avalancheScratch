@@ -1,5 +1,3 @@
-</div>
-</div>
 <br style="clear: both;">
 
 </div>
