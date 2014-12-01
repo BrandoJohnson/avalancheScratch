@@ -56,6 +56,6 @@
         </nav>
         <div class="orgBar" style="margin-left: 20px;"></div>
     </div>
-    <div class="frontpage-content" style="padding-left: 12px !important; border: 1px solid #008000;">
+    <div class="frontpage-content" style="margin: 0 0 0 10px; border: 1px solid #008000;">
 
 
