@@ -4,7 +4,6 @@
 <head>
     <meta charset="<?php bloginfo('charset'); ?>"/>
     <title><?php wp_title('|', true, 'right'); ?><?php bloginfo('name'); ?></title>
-    <meta name="DESCRIPTION" content="<?php bloginfo('description'); ?>" />
     <meta name="KEYWORDS" content="snow roof rake, avalanche snow rake, snow removal, roof maintenance, avalanche roof rake, roof rake, roof snow removal, ice dam solutions, big rig rake, bigrigrake, bigrigrake.com, buffalo minnesota, wright county," />
 
     <!-- Stylesheets -->
