@@ -15,7 +15,7 @@
 
 </head>
 
-<body  bgcolor="#BCC0C7" background="<?php print IMAGES; ?>/bg.gif">
+<body  <?php body_class(); ?>bgcolor="#BCC0C7" background="<?php print IMAGES; ?>/bg.gif">
 
 <div style="text-align: center; border: 1px solid red; width: 100% !important;">
     xxxxxxxxxxx
