@@ -1,7 +1,7 @@
 <br style="clear: both;">
 
 <?php
-    echo "foo";
+    echo "$foo";
 ?>
 
 </div>
