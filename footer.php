@@ -19,7 +19,7 @@ if (false !== strpos($url,'/product/')) {
                                 <nav class="foot botnav" align="center">
                                     <a href="<?php echo home_url(); ?>"/>HOME</a> | <a href="<?php echo home_url(); ?>/products-2/">PRODUCTS</a> | <a href="<?php echo home_url(); ?>/ice-dams/">ICE DAMS</a> | <a href="<?php echo home_url(); ?>/testimonials/">TESTIMONIALS</a> | <a href="<?php echo home_url(); ?>/contact-us/">CONTACT US</a> | <a href="#">SITE MAP</a> | <a href="<?php echo home_url(); ?>/retailers/">RETAILERS</a> | <a href="<?php echo home_url(); ?>/gallery/">GALLERY</a> | <a href="<?php echo home_url(); ?>/file-library/">LIBRARY</a>
                                     <br />
-                                    &copy; <?php echo date('Y'); ?> Avalanche! Products by Rhino Manufacturing - 800-378-3088 -  <a href="<?php echo home_url(); ?>/policies">Store Policies</a> -  <a href="mailto:sales@avalanche-snow.com">E-mail</a>  <!--<a href="/downloads/Avalanche-order-form.pdf" target="_blank">Fax Order Form</a>-->
+                                    &copy; <?php echo date('Y'); ?> Avalanche! Products by Rhino Manufacturing - 800-378-3088 -  <a href="<?php echo home_url(); ?>/store-policy/">Store Policies</a> -  <a href="mailto:sales@avalanche-snow.com">E-mail</a>  <!--<a href="/downloads/Avalanche-order-form.pdf" target="_blank">Fax Order Form</a>-->
                                 </nav>
                             </td>
                             </tr>
