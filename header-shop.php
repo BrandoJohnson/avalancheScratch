@@ -17,6 +17,11 @@
             width: 100% !important;
         }
     </style>
+
+    <?php
+        $product-detail="yes";
+    ?>
+
 </head>
 
 <body  <?php body_class(); ?>bgcolor="#BCC0C7" background="<?php print IMAGES; ?>/bg.gif">
@@ -59,6 +64,6 @@
         </nav>
         <div class="orgBar" style="margin-left: 20px;"></div>
     </div>
-    <div class="frontpage-content" style="margin: 0 0 0 20px !important; border: 1px solid #008000;">
+    <div class="frontpage-content" style="margin: 0 0 0 20px !important;">
 
 
