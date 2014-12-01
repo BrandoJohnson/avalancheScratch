@@ -19,7 +19,7 @@
     </style>
 
     <?php
-        $product-detail="yes";
+        $productdetail="yes";
     ?>
 
 </head>
