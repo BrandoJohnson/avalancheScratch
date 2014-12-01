@@ -1,9 +1,9 @@
 <br style="clear: both;">
 
 <?php
-if($productdetail=="yes"){
+if($productdetail=="yes")
     echo "</div> Hello";
-}
+
 echo $productdetail;
 ?>
 </div>
