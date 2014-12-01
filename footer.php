@@ -1,7 +1,7 @@
 <br style="clear: both;">
 
 <?php
-    echo $productdetail;
+    echo "Hello";
 ?>
 </div>
 </div>
