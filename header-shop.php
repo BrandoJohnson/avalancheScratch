@@ -54,7 +54,7 @@
             ));
             ?>
         </nav>
-        <div class="orgBar" style="margin-left: 18px;"></div>
+        <div class="orgBar" style="margin-left: 20px;"></div>
     </div>
     <div class="frontpage-content" style="padding-left: 12px !important; ">
 
