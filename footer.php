@@ -1,7 +1,6 @@
 <br style="clear: both;">
 
 <?php
-    $foo="foobar";
     echo "$foo";
 ?>
 
