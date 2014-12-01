@@ -1,5 +1,5 @@
 <br style="clear: both;">
-<?php get_page_template(); ?>
+<?php echo get_page_template(); ?>
 
 
 </div>
