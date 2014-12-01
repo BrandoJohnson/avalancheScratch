@@ -1,5 +1,6 @@
-
-                        <tr>
+           </div>
+            <table cellspacing="0" cellpadding="0" border="1" width="740" bgcolor="#ffffff" valign="top">
+                <tr>
                             <td bgcolor="#eeeeee">
                                 <nav class="foot botnav" align="center">
                                     <a href="<?php echo home_url(); ?>"/>HOME</a> | <a href="<?php echo home_url(); ?>/products-2/">PRODUCTS</a> | <a href="<?php echo home_url(); ?>/ice-dams/">ICE DAMS</a> | <a href="<?php echo home_url(); ?>/testimonials/">TESTIMONIALS</a> | <a href="<?php echo home_url(); ?>/contact-us/">CONTACT US</a> | <a href="#">SITE MAP</a> | <a href="<?php echo home_url(); ?>/retailers/">RETAILERS</a> | <a href="<?php echo home_url(); ?>/gallery/">GALLERY</a> | <a href="<?php echo home_url(); ?>/file-library/">LIBRARY</a>
