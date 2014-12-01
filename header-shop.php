@@ -43,17 +43,6 @@
                 </div></td>
         </tr>
     </table>
-    <!--<table cellspacing="0" cellpadding="0" border="0" width="783" valign="top">
-      <tr>
-        <td valign="top"><img src="/<?php print IMAGES; ?>/nav_top.gif" width="783" height="12" border="0" alt="" /><br /></td>
-      </tr>
-      <tr>
-        <td valign="top" align="center" style="background:#bcc0c7;"><div class="topnav"><img src="/<?php print IMAGES; ?>/nav_light_on.gif" width="28" height="28" border="0" alt="Home" /><a href="/index.asp">HOME</a><img src="/<?php print IMAGES; ?>/nav_light_off.gif" width="28" height="28" border="0" alt="" /><a href="/eshop/10browse.asp">PRODUCTS</a><img src="/<?php print IMAGES; ?>/nav_light_off.gif" width="28" height="28" border="0" alt="" /><a href="/gallery.asp">GALLERY</a><img src="/<?php print IMAGES; ?>/nav_light_off.gif" width="28" height="28" border="0" alt="" /><a href="/dams.asp">ICE DAMS</a><img src="/<?php print IMAGES; ?>/nav_light_off.gif" width="28" height="28" border="0" alt="" /><a href="/testimonials.asp">TESTIMONIALS</a><img src="/<?php print IMAGES; ?>/nav_light_off.gif" width="28" height="28" border="0" alt="" /><a href="/contact.asp">CONTACT US</a><img src="/<?php print IMAGES; ?>/nav_light_off.gif" width="28" height="28" border="0" alt="" /><a href="/dealer.asp">DEALERS</a></div></td>
-      </tr>
-      <tr>
-        <td valign="top"><img src="/<?php print IMAGES; ?>/nav_bottom.gif" width="783" height="14" border="0" alt="" /><br /></td>
-      </tr>
-    </table>-->
     <div id="mNavContainer">
         <div><img src="<?php print IMAGES; ?>/nav_top2.gif" width="783" height="12" border="0" alt="" /></div>
         <nav id="main-nav">
