@@ -16,7 +16,7 @@
 </head>
 
 <body  <?php body_class(); ?>bgcolor="#BCC0C7" background="<?php print IMAGES; ?>/bg.gif">
-<div>
+<div style="width: 100% !important;">
 <div style="margin-left: auto !important; margin-right: auto !important; width: 782px;" >
     <table cellspacing="0" cellpadding="0" border="0" width="783" valign="top">
         <tr>
