@@ -65,4 +65,6 @@
     </div>
     <div class="frontpage-content" style="margin: 0 0 0 20px !important;">
 
-
+        <?php
+        $foo="foobar";
+        ?>
