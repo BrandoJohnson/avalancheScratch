@@ -1,7 +1,6 @@
 <br style="clear: both;">
 
 <?php
-if($productdetail=="yes")
     echo $productdetail;
 ?>
 </div>
