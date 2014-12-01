@@ -56,6 +56,6 @@
         </nav>
         <div class="orgBar"></div>
     </div>
-    <div class="frontpage-content">
+
 
 
