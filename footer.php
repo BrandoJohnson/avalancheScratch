@@ -2,9 +2,7 @@
 
 <?php
 if($productdetail=="yes")
-    echo "</div> Hello";
-
-echo $productdetail;
+    echo $productdetail;
 ?>
 </div>
 </div>
