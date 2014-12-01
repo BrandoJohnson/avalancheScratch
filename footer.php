@@ -6,7 +6,7 @@ $url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 
 
 if (false !== strpos($url,'/product/')) {
-    echo 'Yes PAGE.';
+    echo '</div>';
 } else {
     echo 'No NOT.';
 }
