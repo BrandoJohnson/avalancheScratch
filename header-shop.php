@@ -66,5 +66,5 @@
         </nav>
         <div class="orgBar"></div>
     </div>
-    <div style="width: 740px !important; background: white;">
+    <div class="frontpage-content">
 
