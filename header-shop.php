@@ -19,7 +19,7 @@
     </style>
 
     <?php
-        $rickjohnson="brandon";
+    $foo="foobar";
     ?>
 
 </head>
