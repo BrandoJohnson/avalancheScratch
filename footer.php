@@ -1,5 +1,10 @@
 <br style="clear: both;">
 
+
+<?php
+$foo="foobar";
+?>
+
 <?php
     echo "$foo";
 ?>
