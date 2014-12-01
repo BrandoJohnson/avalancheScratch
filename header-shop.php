@@ -44,6 +44,7 @@
         </tr>
     </table>
     </div>
+    <br style="clear: both;">
     <div id="mNavContainer">
         <div><img src="<?php print IMAGES; ?>/nav_top2.gif" width="783" height="12" border="0" alt="" /></div>
         <nav id="main-nav">
