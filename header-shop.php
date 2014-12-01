@@ -12,7 +12,12 @@
 
 
     <?php wp_head(); ?>
+    <style>
+        body.woocommerce {
+            width: auto !important;
+        }
 
+    </style>
 </head>
 
 <body  <?php body_class(); ?>bgcolor="#BCC0C7" background="<?php print IMAGES; ?>/bg.gif">
