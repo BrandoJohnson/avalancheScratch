@@ -24,10 +24,6 @@
 
 <body  <?php body_class(); ?>bgcolor="#BCC0C7" background="<?php print IMAGES; ?>/bg.gif">
 
-<?php
-$foo="foobar";
-?>
-xxxxxx
 <div style="margin-left: auto !important; margin-right: auto !important; width: 782px; float: none;" >
     <table cellspacing="0" cellpadding="0" border="0" width="783" valign="top">
         <tr>
