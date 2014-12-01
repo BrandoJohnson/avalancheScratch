@@ -54,4 +54,4 @@
         </nav>
         <div class="orgBar"></div>
     </div>
-<div style="width: 740px !important;">
+<div style="width: 740px !important; background: white;">
