@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" uploadOnCheckin="d3f30b4a-69bb-4cbc-81ea-5861be58a4f4">
+  <component name="PublishConfigData" uploadOnCheckin="affa9391-a565-4002-b976-4514d9836f34">
     <serverData>
-      <paths name="Avalanche LIVE">
+      <paths name="Avalanche">
         <serverdata>
           <mappings>
             <mapping deploy="/public_html/wp-content/themes/avalanche" local="$PROJECT_DIR$" web="/" />
@@ -10,7 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="Avalanche LIVE" />
+    <option name="myUploadOnCheckinName" value="publicservicewebsites.com" />
   </component>
 </project>
-
