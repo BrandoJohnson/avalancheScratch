@@ -17,6 +17,7 @@
             <?php dynamic_sidebar( 'sidebar-1' ); ?>
 
         </div><!-- #primary-sidebar -->
+
     <?php endif; ?>
 <?php endwhile; endif; ?>
 <?php get_footer(); ?>
