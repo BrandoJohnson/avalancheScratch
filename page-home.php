@@ -13,11 +13,9 @@
     </div>
     <?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
         <div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
-            <div class="orgBar"></div>
             <?php dynamic_sidebar( 'sidebar-1' ); ?>
-
+            <div class="orgBar"></div>
         </div><!-- #primary-sidebar -->
-
     <?php endif; ?>
 <?php endwhile; endif; ?>
 <?php get_footer(); ?>
