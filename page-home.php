@@ -12,9 +12,10 @@
         <div class="col-md-12"><?php the_field('bottom_content_area') ?></div>
     </div>
     <?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
-        <div class="orgBar"></div>
         <div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+            <div class="orgBar"></div>
             <?php dynamic_sidebar( 'sidebar-1' ); ?>
+
         </div><!-- #primary-sidebar -->
     <?php endif; ?>
 <?php endwhile; endif; ?>
