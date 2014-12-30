@@ -11,8 +11,8 @@
         <div class="col-md-12"><?php the_field('middle_content_area') ?></div>
         <div class="col-md-12"><?php the_field('bottom_content_area') ?></div>
     </div>
-    <div class="orgBar"></div>
     <?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
+        <div class="orgBar"></div>
         <div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
             <?php dynamic_sidebar( 'sidebar-1' ); ?>
         </div><!-- #primary-sidebar -->
