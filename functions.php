@@ -57,10 +57,6 @@ function arphabet_widgets_init() {
 }
 add_action( 'widgets_init', 'arphabet_widgets_init' );
 
-
-
-
-
 /*STEP 1 - REMOVE ADD TO CART BUTTON ON PRODUCT ARCHIVE (SHOP) */
 
 function remove_loop_button(){
@@ -75,7 +71,7 @@ add_action('woocommerce_after_shop_loop_item','replace_add_to_cart');
 function replace_add_to_cart() {
     global $product;
     $link = $product->get_permalink();
-    echo do_shortcode('<br>[button link="' . esc_attr($link) . '"]Read more[/button]');
+    echo the_content('<br>[button link="' . esc_attr($link) . '"]Read more[/button]');
 }
 
 
